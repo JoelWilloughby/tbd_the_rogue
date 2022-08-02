@@ -33,15 +33,22 @@ His penchant for cool items led him to several instances of theivery, hence the 
 Eventually, he ended up in Phandolin searching for `<FILL THIS IN ITEM>`.
 He found work with a group called the Redbrands, mostly working as a fence/thief. 
 Somehow he has made an enemy of someone in the Redbrands.
-On their word, [Glasstaff](../npcs/glasstaff.md) tried to have me killed.
+On their word, [Glasstaff](./npcs/glasstaff.md) tried to have me killed.
 He escaped, barely alive, and fled Phandolin with pretty much nothing to his name.
 
-- [ ] Talk to [Halia Thornton](../npcs/halia_thornton.md). 
+- [ ] Talk to [Halia Thornton](./npcs/halia_thornton.md).
     Someone tipped you off that she also has it in for the Redbrands.
     She is somewhere in the city.
 - [ ] Find out who sold you out in this gang
 - [ ] Get revenge, on that person, on Glasstaff, possibly on the Redbrands as a whole.
 - [ ] *It is unknown if Glasstaff was in on the gig or what.*
+
+## Find the perfect ingredients to create the best cookie
+Dodge loves to cook, and his favorite is baking.
+His mom is well-known for here supremely plump and bountifully plenty triple double chocolate chip cookies.
+- [ ] Find an ideal cookie-type to put his own spin on
+- [ ] Perfect the recipe
+- [ ] Take it back to mom
 
 
 # Inspirations
