@@ -6,7 +6,7 @@
 - Far Traveler
 - Neutral Good
 
-Theodore Baxter Dodgerton III comes from an old family of halflings. Mother and father own and operate a local bakery 
+Theodore Baxter Dodgerton III comes from an old family of halflings. Mother and father own and operate a local bakery
 in his home town.
 While he likes his home and appreciates the upbringing he was given, he was always an adventurous one, his brains and
 inquisitiveness getting him into trouble.
@@ -31,9 +31,9 @@ His penchant for cool items led him to several instances of theivery, hence the 
 
 ## Revenge on the Redbrands
 Eventually, he ended up in Phandolin searching for `<FILL THIS IN ITEM>`.
-He found work with a group called the Redbrands, mostly working as a fence/thief. 
+He found work with a group called the Redbrands, mostly working as a fence/thief.
 Somehow he has made an enemy of someone in the Redbrands.
-On their word, [Glasstaff](./npcs/glasstaff.md) tried to have me killed.
+On their word, [Glasstaff](./npcs/glasstaff.md) tried to have him killed.
 He escaped, barely alive, and fled Phandolin with pretty much nothing to his name.
 
 - [ ] Talk to [Halia Thornton](./npcs/halia_thornton.md).
@@ -42,6 +42,55 @@ He escaped, barely alive, and fled Phandolin with pretty much nothing to his nam
 - [ ] Find out who sold you out in this gang
 - [ ] Get revenge, on that person, on Glasstaff, possibly on the Redbrands as a whole.
 - [ ] *It is unknown if Glasstaff was in on the gig or what.*
+
+### Redbrands history
+He left home with most of the essentials you'd expect from one looking to go on a great adventure,
+but adventure can drain the resources.
+After several months of travel, he found himself low on necessities and a bit down on his luck.
+After arriving in Phandolin and not finding much in the way of his goal, he knew he'd need to
+find some way to make some coin.
+
+As he was casing a group of local rich kids, he realized that he himself was being cased.
+There was a cloaked figure following him as he walked.
+Wanting to figure out what this was all about, he looked to reverse this casing and ended up
+following his follower, surprising them with a well placed "Hello, why are you following me?"
+
+The figure identified themself as a human named Hans and explained that he was following Dodge
+because Dodge had caught the attention of the Redbrands with his --- well, theiving.
+It's not cool for an organized Thieve's guild like the Redbrands to have un-incorporated criminals
+running around.
+Hans explained that his superiors asked him to look into this relative newcomer to the town for
+possible recruitment or... adjustment.
+It was about then that another, much larger figure made himself visible.
+Hans introduced this hulking half-orc as Tom, clearly this was the adjuster that Hans alluded to.
+
+Seeing the writing on the wall, and in need of work anyway, Dodge went along with Hans and Tom
+to meet with some members of the Redbrands.
+
+Long story short, Dodge had to perform a few favors for the Redbrands to show his loyalty and skills.
+After a bit of that, he eventually found himself part of the group.
+He often worked closely with Tom and Hans and was by far closest with them.
+
+Hans is a charismatic type (bard) who is quick with the tongue and prone to burst out into song
+in public places.
+When it came to business time, though, he is incredibly resourceful and though not as stealthy as
+Dodge, still could slip in and out of a crowd quite easily.
+He and Dodge were the mouthpieces of the group, depending on the audience they were keeping.
+
+Tom is a half-orc beefy boy (probably a fighter or barb?).
+Definitely the muscle of the group.
+He's also silent most of the time and can be sneakily sneaky; often people don't pay much attention to
+him despite his size since he doesn't tend to bring much attention to himself.
+He prefers to let Hans do the talking, though he does have a knack for being there for Hans and Dodge.
+He will often provide a beat whenever Hans starts singing (Dodge will occasionally add a panflute to the mix).
+He's quite a character when you get him talking, and he and Dodge often chat about their reads on
+different people as Dodge trusts his insights.
+
+When not on Redbrand time, they would go out to bars and pass the time with oddball challenges.
+There was Another Stranger Hat, a game where they would compete through the night, stealing/haggling/whatevering
+hats from strangers in the bar, with the intention of ending up with the best hat at the end of the night.
+
+Dodge learned a lot about his craft working with Hans and Tom.
 
 ## Find the perfect ingredients to create the best cookie
 Dodge loves to cook, and his favorite is baking.
@@ -55,7 +104,7 @@ His mom is well-known for here supremely plump and bountifully plenty triple dou
 - Sherlock Holmes - Detective, smarmy
 - Indiana Jones - Lithe, quick, prone to adventure
 - Bilbo Baggins - Halfling thief, c'mon
-- Pirate - Will be a swashbuckler? Picture him as kind of a 
+- Pirate - Will be a swashbuckler? Picture him as kind of a
 
 ## Voice
 - Gumshoe?
